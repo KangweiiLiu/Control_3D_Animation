@@ -21,16 +21,19 @@ Audio-driven emotional 3D facial animation encounters two significant challenges
 ## Supplementary Video Materials
 
 ### Introduction Video in Different Emotions
+<div align="center">
 <div class="grid-container">
   <div class="grid-item">
     <video width="80%" controls>
       <source src="videos/intro_combined_video_professional.mp4" type="video/mp4">
     </video>
+    <br>
     <em>Introduction Video in Different Emotions</em>
-  </div>
+</div>
 
 
 ### Comparison of Different Methods (MEAD_emo dataset)
+<div align="center">
 <div class="grid-container">
   <div class="grid-item">
     <video width="80%" controls>
@@ -48,17 +51,23 @@ Audio-driven emotional 3D facial animation encounters two significant challenges
     <video width="80%" controls>
       <source src="videos/algorithm_comparison_w024_front_happy_level_2_007_crop_detail.mp4.mp4" type="video/mp4">
     </video>
+    <br>
     <em>Comparison of Different Methods (MEAD_emo dataset)</em>
   </div>
+</div>
 
 ### Comparison of Different Methods (HDTF dataset)
+<div align="center">
 <div class="grid-container">
   <div class="grid-item">
     <video width="80%" controls>
       <source src="videos/algorithm_comparison_wra_kristinoem1_crop_256_000_detail.mp4.mp4" type="video/mp4">
     </video>
+    <br>
     <em>Comparison of Different Methods (HDTF dataset)</em>
   </div>
+</div>
+</div>
 
 ### Weight Comparison Experiment
 <div align="center">
@@ -75,6 +84,7 @@ Audio-driven emotional 3D facial animation encounters two significant challenges
 
 
 ### Comparison of Diffrent Modalities Driven Methods
+<div align="center">
 <div class="grid-container">
   <div class="grid-item">
     <video width="100%" controls>
@@ -86,17 +96,24 @@ Audio-driven emotional 3D facial animation encounters two significant challenges
     <video width="100%" controls>
       <source src="videos/modality_comparison_sad.mp4" type="video/mp4">
     </video>
+    <br>
     <em>Comparison of Diffrent Modalities Driven Methods</em>
   </div>
+</div>
+</div>
 
 ### Ablation Study on Different Components
+<div align="center">
 <div class="grid-container">
   <div class="grid-item">
     <video width="100%" controls>
       <source src="videos/Components_comparison.mp4" type="video/mp4">
     </video>
+    <br>
     <em>Ablation Study on Different Components</em>
   </div>
+</div>
+</div>
 
 ## Citation
 If you find our work useful, please consider citing:
