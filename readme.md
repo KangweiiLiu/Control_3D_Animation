@@ -23,7 +23,7 @@ Audio-driven emotional 3D facial animation encounters two significant challenges
 ### Introduction Video in Different Emotions
 <div class="grid-container">
   <div class="grid-item">
-    <video width="100%" controls>
+    <video width="80%" controls>
       <source src="videos/intro_combined_video_professional.mp4" type="video/mp4">
     </video>
     <em>Introduction Video in Different Emotions</em>
@@ -33,19 +33,19 @@ Audio-driven emotional 3D facial animation encounters two significant challenges
 ### Comparison of Different Methods (MEAD_emo dataset)
 <div class="grid-container">
   <div class="grid-item">
-    <video width="100%" controls>
+    <video width="80%" controls>
       <source src="videos/algorithm_comparison_m019_front_surprised_level_1_023_crop_detail.mp4.mp4" type="video/mp4">
     </video>
-    <video width="100%" controls>
+    <video width="80%" controls>
       <source src="videos/algorithm_comparison_m033_front_angry_level_1_014_crop_detail.mp4.mp4" type="video/mp4">
     </video>
-    <video width="100%" controls>
+    <video width="80%" controls>
       <source src="videos/algorithm_comparison_w018_front_sad_level_2_008_crop_detail.mp4.mp4" type="video/mp4">
     </video>
-    <video width="100%" controls>
+    <video width="80%" controls>
       <source src="videos/algorithm_comparison_w024_front_disgusted_level_2_056_crop_detail.mp4.mp4" type="video/mp4">
     </video>
-    <video width="100%" controls>
+    <video width="80%" controls>
       <source src="videos/algorithm_comparison_w024_front_happy_level_2_007_crop_detail.mp4.mp4" type="video/mp4">
     </video>
     <em>Comparison of Different Methods (MEAD_emo dataset)</em>
@@ -54,7 +54,7 @@ Audio-driven emotional 3D facial animation encounters two significant challenges
 ### Comparison of Different Methods (HDTF dataset)
 <div class="grid-container">
   <div class="grid-item">
-    <video width="100%" controls>
+    <video width="80%" controls>
       <source src="videos/algorithm_comparison_wra_kristinoem1_crop_256_000_detail.mp4.mp4" type="video/mp4">
     </video>
     <em>Comparison of Different Methods (HDTF dataset)</em>
@@ -62,10 +62,10 @@ Audio-driven emotional 3D facial animation encounters two significant challenges
 
 ### Weight Comparison Experiment
 <div align="center">
-<video width="100%" controls>
+<video width="80%" controls>
   <source src="videos/weight_comparison_fear.mp4" type="video/mp4">
 </video>
-<video width="100%" controls>
+<video width="80%" controls>
   <source src="videos/weight_comparison_happy.mp4" type="video/mp4">
 </video>
 
